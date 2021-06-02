@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+# Jobverz
 
-You can use the [editor on GitHub](https://github.com/Thumma-Bhavana/bhavana_multiverz_portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Project Description
+The theme of the project is to generate insights and provide guidance for the users based on the job postings on different sights (eg, Indeed, Monster, etc.,).It also generates knowledge graph of domain specializations. Tracks latest addition to Wikipedia articles to identify emergent domains or specializations. Helps the individuals to shift from one learning path to another.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Technologies used
+Frontend : React JS
 
-```markdown
-Syntax highlighted code block
+Backend : AWS Amplify, Cognito
 
-# Header 1
-## Header 2
-### Header 3
+Code Versioning Systems: Git and GitHub
 
-- Bulleted
-- List
+### Sprint 1: Learnings
+1. Learned about the SCRUM methodology 
+2. Learned various attributes and aspects of SCRUM
+3. Started implementing the User story 1, which is to create Sign-in page
+4. Developed Sign-in page UI using React JS
+5. Where user email and password have to be verified to match the requirement along with toggle password visibility
+6. Worked on setting up the navbar for sign-in and signup components with toggle mode
+7. Included social login buttons for user convinience
+8. Integrated all the the landing/Sign-in/Sign-up/Sign-out pages and worked on their responsiveness
 
-1. Numbered
-2. List
+### Sprint 2: Learnings
+1. Learned how to create the User stories and branches in GitHub
+2. Learned how to write Acceptance criteria for a user Story
+4. Started research on how to use AWS Amplify and cognito as the main authentication provider
+5. AWS Amplify handles user registration, authentication, account recovery & other operations
+6. Analyzed the cost of AWS Amplify and Cognito and repared a documentation
+6. Worked on AWS Amplify to authenticate the user
 
-**Bold** and _Italic_ and `Code` text
+### Sprint 3: Learnings
+1. Started implementing the new user story, which is to create an aspiration page
+2. Created the User Interface using React JS
+3. Where user can select the aspired job title from an autocomplete field and select the duration from a drop-down, so that he can proceed
+4. A navbar with page links and image showing statistics were included
+5. populated the data list options with job titles retrieved from API.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Thumma-Bhavana/bhavana_multiverz_portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Sprint 4: Learnings
+1. Started Research on how to extract skills from Resume using NLP and Python
+2. Able to extract skills from the pdf and text file given the list of skills (Bruteforce Algorithm)
+3. Discovered that two libraries in python ie., Pyreparser and resumeparser, provides the facility to extract skills from resume of any format
+4. Acquired exposure on getting a specific text like email, phone number, skills, etc using NLP.
+5. Tried using NLP for skills extraction, some worked and some didn't
