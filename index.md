@@ -43,3 +43,12 @@ Code Versioning Systems: Git and GitHub
 3. Discovered that two libraries in python ie., Pyreparser and resumeparser, provides the facility to extract skills from resume of any format
 4. Acquired exposure on getting a specific text like email, phone number, skills, etc using NLP.
 5. Tried using NLP for skills extraction, some worked and some didn't
+
+### Sprint 5: Learnings
+1. Started Research on How data is maintained globally
+2. Checked references on LER from emsi and MIT University
+3. Learnt how the digital credential systems work and store the credentials
+4. Got to know how issuer issue the credential and how the learner accepts the credential digitally in either the form of badges and certifications.
+5. Researced on digital wallets for storing credentials from different sources.
+6. Right now, only couple of companies are accessing this Credential system all over the world.
+7. [Checkout the white paper on LERs] (https://www.commerce.gov/sites/default/files/2020-09/LERwhitepaper09222020.pdf)
