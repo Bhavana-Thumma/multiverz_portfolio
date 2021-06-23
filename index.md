@@ -51,5 +51,4 @@ Code Versioning Systems: Git and GitHub
 4. Got to know how issuer issue the credential and how the learner accepts the credential digitally in either the form of badges and certifications.
 5. Researced on digital wallets for storing credentials from different sources.
 6. Right now, only couple of companies are accessing this Credential system all over the world.
-7. [This is an external link to genome.gov] (https://www.genome.gov/)
-8. [Checkout the white paper on LERs] (https://www.commerce.gov/sites/default/files/2020-09/LERwhitepaper09222020.pdf)
+7. [Checkout the white paper on LERs](https://www.commerce.gov/sites/default/files/2020-09/LERwhitepaper09222020.pdf)
