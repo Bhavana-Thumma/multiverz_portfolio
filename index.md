@@ -12,7 +12,7 @@ Backend : AWS Amplify, Cognito
 
 Code Versioning Systems: Git and GitHub
 
-### Sprint 1: UI/UX design-Starting webpages
+### Sprint 1: UI/UX design, Work on Web Pages
 1. Learned about the SCRUM methodology 
 2. Learned various attributes and aspects of SCRUM
 3. Started implementing the User story 1, which is to create Sign-in page
@@ -21,6 +21,7 @@ Code Versioning Systems: Git and GitHub
 6. Worked on setting up the navbar for sign-in and signup components with toggle mode
 7. Included social login buttons for user convinience
 8. Integrated all the the landing/Sign-in/Sign-up/Sign-out pages and worked on their responsiveness
+9. [Feel free to checkout the Demo](https://dev.d1lnakdl8cijq4.amplifyapp.com/)
 
 ### Sprint 2: AWS-amplify, Cognito, S3
 1. Learned how to create the User stories and branches in GitHub
@@ -58,3 +59,8 @@ Code Versioning Systems: Git and GitHub
 2. The main functionality, of using this page is, it gives the user an option to select the skills from resume/ directly searches for the skill based on job titles and can map 3. on the scale of 0-10.
 4. User will drag and drop the skill based on the profecincy.
 5. Designed the UI part based on the scale.
+
+### Sprint 7: Storage of User Details on S3 using Amplify Storage
+1. Worked on getting user details from all pages
+2. Worked on store the user details in S3 using Amplify Storage
+3. Able to get store the user details in S3
