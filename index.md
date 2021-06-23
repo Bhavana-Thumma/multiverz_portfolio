@@ -44,7 +44,7 @@ Code Versioning Systems: Git and GitHub
 4. Acquired exposure on getting a specific text like email, phone number, skills, etc using NLP.
 5. Tried using NLP for skills extraction, some worked and some didn't
 
-### Sprint 5: Research-LER[Learning and employe records]
+### Sprint 5: Research-LER[Learning and employment records]
 1. Started Research on How data is maintained globally
 2. Checked references on LER from emsi and MIT University
 3. Learnt how the digital credential systems work and store the credentials
