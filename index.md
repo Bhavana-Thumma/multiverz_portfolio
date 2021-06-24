@@ -64,3 +64,8 @@ Code Versioning Systems: Git and GitHub
 1. Worked on getting user details from all pages
 2. Worked on store the user details in S3 using Amplify Storage
 3. Able to get store the user details in S3
+
+### Sprint 8: Storage of User Details on S3 using Amplify Storage and Integration
+1. Done with storing user details
+2. Able to fetch them to display in userprofile page
+3. Done integrating all the pages
